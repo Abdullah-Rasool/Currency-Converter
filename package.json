@@ -1,5 +1,5 @@
 {
-  "name": "ar-currency-converter",
+  "name": "abd-currency-converter",
   "version": "1.0.0",
   "description": "A command-line currency converter built with TypeScript and Inquirer.js for interactive user input and real-time currency conversion.",
   "main": "index.js",
