@@ -1,0 +1,38 @@
+{
+  "name": "ar-currency-converter",
+  "version": "1.0.0",
+  "description": "A command-line currency converter built with TypeScript and Inquirer.js for interactive user input and real-time currency conversion.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdullah-Rasool/Currency-Converter.git"
+  },
+  "keywords": [
+    "currency",
+    "converter",
+    "command-line",
+    "cli",
+    "TypeScript",
+    "Inquirer.js",
+    "exchange rates",
+    "interactive",
+    "real-time"
+  ],
+  "author": "Abdullah Rasool",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdullah-Rasool/Currency-Converter/issues"
+  },
+  "homepage": "https://github.com/Abdullah-Rasool/Currency-Converter#readme",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
